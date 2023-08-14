@@ -1,0 +1,30 @@
+h1{
+    margin-top: 50px;
+    font-size: 60px;
+    text-align: center;
+}
+.main-container{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.diceLabels{
+    margin-top: 20px;
+    display: block;
+    text-align: center;
+}
+.control-container{
+    margin-top: 100px;
+    display: grid;
+    justify-content: center;
+}
+#btnNewGame{
+    margin-top: -100;
+}
+#btnRoll{
+    margin-top: -100%;
+    visibility: hidden;
+}
+#btnReset{
+    margin-top: 15px;
+}
